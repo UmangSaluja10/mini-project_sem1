@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+}
+
+header {
+    background: #56c68a;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    margin: 10px 0;
+}
+#home{
+text-align: center;
+}
+main {
+    padding: 20px;
+}
+
+.blog-post {
+    background: #e8f5e9;
+    border: 1px solid #c8e6c9;
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #56c68a;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
