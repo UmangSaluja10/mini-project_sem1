@@ -77,7 +77,7 @@ function getBotResponse(userMessage) {
   } else if (message.includes("electricity")) {
     return "Reducing electricity consumption and using energy-efficient appliances can help decrease your environmental impact.";
   } else if(message.includes("know more")){
-    return `Here you can visit our blogging website! <a href="/blog.html" target="_blank">Nature's Pulse</a> to know more.`;
+    return `Here you can visit our blogging website! <a href="https://umangsaluja10.github.io/blog_website/" target="_blank">Nature's Pulse</a> to know more.`;
 
   }
   else {
